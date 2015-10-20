@@ -1,12 +1,17 @@
 {
   "name": "ng-generic-bind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generic-bind directive for angular 1.x",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["angular", "generic", "event", "bind"],
+  "keywords": [
+    "angular",
+    "generic",
+    "event",
+    "bind"
+  ],
   "author": "Dennis Sänger <npm.ng-generic-bind-15@mail.ds82.de>",
   "license": "MIT",
   "repository": {
