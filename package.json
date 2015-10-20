@@ -7,12 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["angular", "generic", "event", "bind"],
-  "author": "Dennis Sänger",
+  "author": "Dennis Sänger <npm.ng-generic-bind-15@mail.ds82.de>",
   "license": "MIT",
-  "repository": "git@github.com:ds82/ng-generic-bind.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ds82/ng-generic-bind.git"
+  },
   "devDependencies": {
     "eslint": "1.7.2",
     "eslint-config-ds82": "2.1.1",
     "eslint-plugin-jasmine": "1.5.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ds82/ng-generic-bind/issues"
+  },
+  "homepage": "https://github.com/ds82/ng-generic-bind",
+  "dependencies": {}
 }
